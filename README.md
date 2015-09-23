@@ -1,4 +1,2 @@
 # Juego-Android
 
-
-Prueba Santiago
